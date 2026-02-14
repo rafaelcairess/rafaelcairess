@@ -14,7 +14,7 @@ Uso este perfil para experimentar ideias, documentar aprendizados e acompanhar m
 ### Áreas de interesse
 - Desenvolvimento de software  
 - Programação e automação  
-- Organização e boas práticas de código  
+- GameDev  
 - Construção gradual de soluções técnicas  
 
 ---
