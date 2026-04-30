@@ -21,7 +21,7 @@ Uso este perfil para experimentar ideias, documentar aprendizados e acompanhar m
 ### Tecnologias com as quais já trabalhei
 - Python  
 - JavaScript  
-- C  
+- C#  
 - HTML e CSS  
   
 
