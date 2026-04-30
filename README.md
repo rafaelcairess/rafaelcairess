@@ -13,9 +13,9 @@ Uso este perfil para experimentar ideias, documentar aprendizados e acompanhar m
 
 ### Áreas de interesse
 - Desenvolvimento de software  
-- Programação e automação  
+- DevOps 
 - GameDev  
-- Construção gradual de soluções técnicas  
+- Cybersegurança  
 
 ---
 
@@ -24,7 +24,7 @@ Uso este perfil para experimentar ideias, documentar aprendizados e acompanhar m
 - JavaScript  
 - C  
 - HTML e CSS  
-- Git e GitHub  
+  
 
 ---
 
