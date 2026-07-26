@@ -38,29 +38,13 @@ No ambiente profissional, trabalho com monitoramento de redes, MikroTik RouterOS
 
 ## Estatísticas do GitHub
 
-<div align="center">
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafaelcairess&theme=github_dark" alt="Detalhes do perfil de Rafael Caires">
+</p>
 
-<img
-  width="820"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafaelcairess&theme=github_dark"
-  alt="Detalhes do perfil de Rafael Caires"
-/>
-
-<br>
-
-<img
-  width="405"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rafaelcairess&theme=github_dark"
-  alt="Estatísticas de Rafael Caires no GitHub"
-/>
-
-<img
-  width="405"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rafaelcairess&theme=github_dark"
-  alt="Linguagens mais utilizadas por Rafael Caires"
-/>
-
-</div>
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rafaelcairess&theme=github_dark" alt="Estatísticas de Rafael Caires no GitHub"><img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rafaelcairess&theme=github_dark" alt="Linguagens mais utilizadas por Rafael Caires">
+</p>
 
 ---
 
