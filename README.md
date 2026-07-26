@@ -14,19 +14,19 @@ Uso este perfil para experimentar ideias, documentar aprendizados e acompanhar m
 
 ### Áreas de interesse
 
-- Desenvolvimento de software  
-- DevOps  
-- GameDev  
-- Cybersegurança  
+- Desenvolvimento de software
+- DevOps
+- GameDev
+- Cybersegurança
 
 ---
 
 ### Tecnologias com as quais já trabalhei
 
-- Python  
-- JavaScript  
-- C#  
-- HTML e CSS  
+- Python
+- JavaScript
+- C#
+- HTML e CSS
 
 ---
 
@@ -36,21 +36,21 @@ Uso este perfil para experimentar ideias, documentar aprendizados e acompanhar m
 
 <img
   width="820"
-  src="https://raw.githubusercontent.com/rafaelcairess/rafaelcairess/main/profile-summary-card-output/github_dark/0-profile-details.svg"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafaelcairess&theme=github_dark"
   alt="Detalhes do perfil GitHub"
 />
 
-<br><br>
+<br>
 
 <img
   width="405"
-  src="https://raw.githubusercontent.com/rafaelcairess/rafaelcairess/main/profile-summary-card-output/github_dark/3-stats.svg"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rafaelcairess&theme=github_dark"
   alt="Estatísticas do GitHub"
 />
 
 <img
   width="405"
-  src="https://raw.githubusercontent.com/rafaelcairess/rafaelcairess/main/profile-summary-card-output/github_dark/2-most-commit-language.svg"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rafaelcairess&theme=github_dark"
   alt="Linguagens mais utilizadas"
 />
 
