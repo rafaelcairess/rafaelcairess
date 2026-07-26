@@ -41,14 +41,14 @@ No ambiente profissional, trabalho com monitoramento de redes, MikroTik RouterOS
 <div align="center">
 
 <img
-  height="180"
-  src="https://github-readme-stats.vercel.app/api?username=rafaelcairess&show_icons=true&hide_border=true&locale=pt-br&include_all_commits=true&bg_color=0d1117&title_color=2f81f7&text_color=c9d1d9&icon_color=2f81f7"
+  width="420"
+  src="https://raw.githubusercontent.com/rafaelcairess/rafaelcairess/main/profile-summary-card-output/github_dark/3-stats.svg"
   alt="Estatísticas de Rafael Caires no GitHub"
 />
 
 <img
-  height="180"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelcairess&layout=compact&hide_border=true&langs_count=6&bg_color=0d1117&title_color=2f81f7&text_color=c9d1d9"
+  width="420"
+  src="https://raw.githubusercontent.com/rafaelcairess/rafaelcairess/main/profile-summary-card-output/github_dark/2-most-commit-language.svg"
   alt="Linguagens mais utilizadas por Rafael Caires"
 />
 
